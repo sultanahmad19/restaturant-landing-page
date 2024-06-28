@@ -37,7 +37,8 @@ header {
   box-shadow: var(--box-shadow);
   z-index: 10000;
 }
-header .logo img {
+header .logo  {
+ padding: 1rem;
   height: auto;
 }
 
